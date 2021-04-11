@@ -47,5 +47,6 @@ include("datasets.jl")
 include("filter.jl")
 include("model.jl")
 include("moments.jl")
+include("utils.jl")
 
 end

@@ -8,6 +8,8 @@ tests = [
     "object",
     # "io"
     "moments",
+    # "neighbors",
+    "utils"
 ]
 
 @testset "SnowyOwl.jl" begin
